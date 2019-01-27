@@ -1,2 +1,4 @@
-# project-dot-files
-Boilerplate Dot Files for JavaScript/NodeJS Projects
+# Project Dot Files
+
+Editor Config, Husky Git Hooks, Lint Staged, Prettier, ESLint, TSLint,
+Stylelint, MarkdownLint and more!

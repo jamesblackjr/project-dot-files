@@ -1,0 +1,21 @@
+{
+  "*.{js,jsx}": [
+    "pretter --write",
+    "eslint --fix",
+    "git add"
+  ],
+  "*.{ts,tsx}": [
+    "pretter --write",
+    "tslint --fix",
+    "git add"
+  ],
+  "*.{css,less,scss}": [
+    "pretter --write",
+    "stylelint --fix",
+    "git add"
+  ],
+  "*.{html,hbs,json,graphql,toml,xml,yml,yaml}": [
+    "prettier --write",
+    "git add"
+  ]
+}
