@@ -10,7 +10,9 @@ Stylelint, MarkdownLint and more!
 ```bash
 git clone https://github.com/jamesblackjr/project-dot-files.git new-project-folder
 
-cd new-project-folder && rm -rf .git && git init
+cd new-project-folder
+
+rm -rf .git && git init
 ```
 
 ...or you can copy individual dot files into your project.
