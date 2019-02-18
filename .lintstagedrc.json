@@ -1,31 +1,31 @@
 {
   "*.{js,jsx,json}": [
-    "pretter --write",
+    "prettier --write",
     "eslint --fix",
     "git add"
   ],
   "*.{ts,tsx}": [
-    "pretter --write",
+    "prettier --write",
     "tslint --fix",
     "git add"
   ],
   "*.{css,less,scss}": [
-    "pretter --write",
+    "prettier --write",
     "stylelint --fix",
     "git add"
   ],
   "*.{html}": [
-    "pretter --write",
+    "prettier --write",
     "htmllint",
     "git add"
   ],
   "*.{graphql}": [
-    "pretter --write",
+    "prettier --write",
     "gqlint",
     "git add"
   ],
   "*.{md}": [
-    "pretter --write",
+    "prettier --write",
     "markdownlint",
     "git add"
   ],

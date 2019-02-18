@@ -39,7 +39,7 @@
   "img-req-alt": "allownull",
   "img-req-src": true,
   "indent-style": "spaces",
-  "indent-width": 4,
+  "indent-width": 2,
   "indent-width-cont": true,
   "input-radio-req-name": true,
   "input-req-label": true,
